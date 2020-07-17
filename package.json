@@ -1,7 +1,8 @@
 {
-  "name": "starter",
+  "name": "Natours",
   "version": "1.0.0",
   "description": "Landing page for natours",
+  "homepage": "https://nickj4495.github.io/Natours/",
   "main": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
